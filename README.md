@@ -17,18 +17,18 @@ Estimate of time needed to complete: display images 1 1/2 hours
 
 Start time: 10:30
 
-Finish time: 10:30
+Finish time: 12:00
 
-Actual time needed to complete: 
+Actual time needed to complete: 1 1/2 hours
 
 
 
 Number and name of feature: 3 features.Style
 
-Estimate of time needed to complete:  1 1/2 hours 
+Estimate of time needed to complete:  1 hour 
 
-Start time: :30
+Start time: 12:30
 
-Finish time: 
+Finish time: 12:50
 
-Actual time needed to complete: 
+Actual time needed to complete: 20 minutes
